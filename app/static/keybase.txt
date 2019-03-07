@@ -26,7 +26,7 @@ To do so, I am signing this object:
             ]
         },
         "service": {
-            "hostname": "roland.codes",
+            "hostname": "dank.photography",
             "protocol": "https:"
         },
         "type": "web_service_binding",

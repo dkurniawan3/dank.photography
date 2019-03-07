@@ -1,8 +1,5 @@
-roland.codes
+dkurniawan3
 =====================
-
-[![Dev Dependency Status](https://david-dm.org/Rowno/roland.codes/dev-status.svg)](https://david-dm.org/Rowno/roland.codes#info=devDependencies)
-[![Dependency Status](https://david-dm.org/Rowno/roland.codes/status.svg)](https://david-dm.org/Rowno/roland.codes#info=dependencies)
 
 This is the source code of my personal website/blog, which is a static website generated using [Metalsmith][].
 

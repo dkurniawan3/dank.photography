@@ -72,8 +72,8 @@ gulp.task('metalsmith', done => {
   const metadata = {
     baseurl: 'https://roland.codes',
     buildDate: new Date(),
-    copyright: `Copyright © 2011-${new Date().getFullYear()} Roland Warmerdam`,
-    email: 'hi@roland.codes',
+    copyright: `Copyright © 2019-${new Date().getFullYear()} Daniel Kurniawan`,
+    email: 'danieljkurniawan@gmail.com',
     svgs: {}
   }
 

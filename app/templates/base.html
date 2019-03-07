@@ -2,7 +2,7 @@
 <html lang="en" class="theme--1 preload">
   <head>
     <meta charset="utf-8">
-    <title>{% if title %}{{ title }} | {% endif %}Roland Warmerdam</title>
+    <title>{% if title %}{{ title }} | {% endif %}Daniel Kurniawan</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/index.css">
@@ -17,13 +17,13 @@
       <meta name="description" content="{{ description | e }}">
       <meta property="og:description" content="{{ description | e }}">
     {% endif %}
-    <meta name="application-name" content="Roland Warmerdam">
+    <meta name="application-name" content="Daniel Kurniawan">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ baseurl | e }}/{% if path %}{{ path | e }}/{% endif %}">
-    <meta property="og:title" content="{% if title %}{{ title | e }} | {% endif %}Roland Warmerdam">
+    <meta property="og:title" content="{% if title %}{{ title | e }} | {% endif %} Daniel Kurniawan">
     <meta property="og:image" content="{{ baseurl | e }}{{ socialImage | default('/assets/images/touch-icon.png') | e }}">
-    <meta property="twitter:site" content="@rowno1">
-    <meta property="twitter:creator" content="@rowno1">
+    <meta property="twitter:site" content="@DansJunior">
+    <meta property="twitter:creator" content="@DansJunior">
     <meta property="twitter:card" content="{{ twitterCard | default('summary') | e }}">
 
     {% if noindex %}
@@ -49,7 +49,7 @@
       {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "name": "Roland Warmerdam",
+        "name": "Daniel Kurniawan",
         "url": "{{ baseurl | e }}"
       }
       </script>
@@ -57,13 +57,12 @@
       {
         "@context" : "http://schema.org",
         "@type" : "Person",
-        "name" : "Roland Warmerdam",
+        "name" : "Daniel Kurniawan",
         "url" : "{{ baseurl | e }}",
         "sameAs" : [
-            "https://twitter.com/rowno1",
-            "https://github.com/Rowno",
-            "https://www.npmjs.com/~rowno",
-            "https://www.linkedin.com/in/rolandwarmerdam"
+            "https://twitter.com/DansJunior",
+            "https://github.com/dkurniawan3",
+            "https://www.linkedin.com/in/dkurniawan3/"
         ]
       }
       </script>

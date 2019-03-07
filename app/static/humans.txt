@@ -1,10 +1,7 @@
 # humanstxt.org
 # The humans responsible & technology colophon
 
-# TEAM
-
-    Roland Warmerdam -- Web Developer -- https://roland.codes/
-    Arlen McCluskey  -- Designer      -- http://billykick.com/
+    Daniel Kurniawan -- Developer
 
 # TECHNOLOGY COLOPHON
 
@@ -14,4 +11,4 @@
     jQuery, Babel, Browserify, UglifyJS, XO, Picturefill, Moment.js, FastClick, highlight.js
     Atom
 
-    https://github.com/Rowno/roland.codes
+    https://github.com/dkurniawan3

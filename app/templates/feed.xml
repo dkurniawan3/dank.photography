@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>{{ baseurl | e }}/</id>
-  <title>Roland Warmerdam</title>
+  <title>Daniel Kurniawan</title>
   <updated>{{ buildDate | date }}</updated>
   <link rel="self" href="{{ baseurl | e }}/feed.xml" />
   <rights>{{ copyright | e }}</rights>
@@ -13,7 +13,7 @@
       <updated>{{ post.date | date }}</updated>
       <link rel="alternate" href="{{ baseurl | e }}/{{ post.path | e }}/" />
       <author>
-        <name>Roland Warmerdam</name>
+        <name>Daniel Kurniawan</name>
         <uri>{{ baseurl | e }}/</uri>
       </author>
       <content type="html">

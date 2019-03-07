@@ -17,7 +17,7 @@ nunjucksEnv.addFilter('fuzzydate', input => timeago(new Date(input)))
 if ($commentsList.length > 0) {
   const commentsIssueId = $commentsList.data('commentsIssueId')
 
-  window.fetch(`https://api.github.com/repos/Rowno/roland.codes/issues/${commentsIssueId}/comments`, {
+  window.fetch(`https://api.github.com/repos/dkurniawan3/dkurniawan3.github.io/issues/${commentsIssueId}/comments`, {
     headers: {
       Accept: 'application/vnd.github.v3.html+json'
     }
@@ -53,7 +53,7 @@ if ($commentsList.length > 0) {
     $commentsList.html(`
       Oops, something broke while loading the comments.
       Please try again later or
-      <a href="https://github.com/Rowno/roland.codes/issues/">report the problem</a>.
+      <a href="https://github.com/dkurniawan3/dkurniawan3.github.io/issues/">report the problem</a>.
     `)
     throw err
   })

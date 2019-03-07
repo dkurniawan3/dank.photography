@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://roland.codes/sitemap.xml
+Sitemap: https://dank.photography/sitemap.xml
