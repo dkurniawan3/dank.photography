@@ -10,9 +10,6 @@
     "build": "gulp build --prod",
     "test": "xo && gulp alex"
   },
-  "engines": {
-    "node": "^8"
-  },
   "browser": {
     "nunjucks": "nunjucks/browser/nunjucks-slim"
   },
