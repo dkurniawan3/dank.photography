@@ -48,7 +48,7 @@
     "gulpsmith": "^0.5.3",
     "he": "^1.1.1",
     "helmet": "^3.6.1",
-    "highlight.js": "^9.9.0",
+    "highlight.js": "^10.4.1",
     "metalsmith": "^2.0.1",
     "metalsmith-collections": "^0.9.0",
     "metalsmith-drafts": "0.0.1",
