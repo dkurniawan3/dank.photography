@@ -32,7 +32,7 @@
     "cheerio": "^0.22.0",
     "content-security-policy-builder": "^2.0.0",
     "del": "^2.0.0",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "globby": "^6.1.0",
     "gulp": "^3.9.1",
     "gulp-alex": "^3.0.0",
